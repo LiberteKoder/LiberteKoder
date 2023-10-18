@@ -12,9 +12,3 @@
 
 很高兴能在这里认识您，期待与您共同探索技术的奇妙世界！
 
-请翻译成英文
-
-<!---
-LiberteKoder/LiberteKoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
